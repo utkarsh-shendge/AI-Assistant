@@ -1,0 +1,60 @@
+text,intent
+open youtube,OPEN_YOUTUBE
+start youtube,OPEN_YOUTUBE
+play some videos on youtube,OPEN_YOUTUBE
+launch youtube app,OPEN_YOUTUBE
+open google,OPEN_GOOGLE
+search something on google,OPEN_GOOGLE
+launch google browser,OPEN_GOOGLE
+what is the time,GET_TIME
+tell me current time,GET_TIME
+can you tell time,GET_TIME
+turn on the light,LIGHT_ON
+switch on the bedroom light,LIGHT_ON
+light on please,LIGHT_ON
+turn off the light,LIGHT_OFF
+switch off the light,LIGHT_OFF
+light off now,LIGHT_OFF
+turn on fan,FAN_ON
+turn off fan,FAN_OFF
+exit assistant,EXIT
+close assistant,EXIT
+stop,EXIT
+open word,OPEN_WORD
+start word,OPEN_WORD
+launch microsoft word,OPEN_WORD
+open ms word,OPEN_WORD
+open whatsapp,OPEN_WHATSAPP
+start whatsapp,OPEN_WHATSAPP
+launch whatsapp,OPEN_WHATSAPP
+open whatsapp web,OPEN_WHATSAPP
+send whatsapp message,SEND_WHATSAPP
+send message on whatsapp,SEND_WHATSAPP
+message on whatsapp,SEND_WHATSAPP
+send message to papa,SEND_WHATSAPP
+message rahul on whatsapp,SEND_WHATSAPP
+send whatsapp to pappa,SEND_WHATSAPP
+search on google,SEARCH_GOOGLE
+google search,SEARCH_GOOGLE
+search something on google,SEARCH_GOOGLE
+find on google,SEARCH_GOOGLE
+search on youtube,SEARCH_YOUTUBE
+play on youtube,SEARCH_YOUTUBE
+search video on youtube,SEARCH_YOUTUBE
+find on youtube,SEARCH_YOUTUBE
+show summary,SHOW_SUMMARY
+usage summary,SHOW_SUMMARY
+what is my usage,SHOW_SUMMARY
+so jao,EXIT
+light on karo,LIGHT_ON
+light chalu karo,LIGHT_ON
+light band karo,LIGHT_OFF
+fan chalu kardo,FAN_ON
+fan on karo,FAN_ON
+fan band karo,FAN_OFF
+kya time hai,GET_TIME
+open spotify,OPEN_SPOTIFY
+play song,OPEN_SPOTIFY
+gana bajao,OPEN_SPOTIFY
+play songs,OPEN_SPOTIFY
+play music,OPEN_SPOTIFY
